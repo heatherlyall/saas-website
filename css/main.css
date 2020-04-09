@@ -1,0 +1,32 @@
+html {
+  background-color: #fff;
+  font-family: Viga, sans-serif;
+}
+
+.masthead {
+  background-color: #000000;
+  color: #fff;
+}
+
+.logo {
+  text-align: center;
+}
+
+.logo-text {
+  display: inline-block;
+  width: 5em;
+}
+
+.nav {
+  text-align: center;
+}
+
+.nav a {
+  color: #fff;
+  text-decoration: none;
+  font-family: "Bebas Neue", cursive;
+}
+
+.nav a:hover span {
+  color: #0FC7D6;
+}
