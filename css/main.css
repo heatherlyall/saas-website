@@ -1,5 +1,5 @@
 html {
-  background-color: #fff;
+  background-color: #0FC7D6;
   font-family: Viga, sans-serif;
 }
 
@@ -29,4 +29,40 @@ html {
 
 .nav a:hover span {
   color: #0FC7D6;
+}
+
+.banner {
+  min-height: 16em;
+  color: #fff;
+}
+
+.btn-banner {
+  border-color: #0FC7D6;
+  color:  #000000;
+}
+
+.btn-banner:hover,
+.btn-banner:focus {
+  background-color: #0FC7D6;
+  border-color: #000000;
+  color: #000000;
+}
+
+.footer {
+  background-color: #000000;
+  color: #fff;
+}
+
+h2 {
+  font-family: "Bebas Neue", cursive;
+  font-size: 5em;
+  color: #000000;
+}
+
+.bottom-text {
+top: 0;
+}
+
+.signupbb {
+  right: 100rem;
 }
