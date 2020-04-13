@@ -63,6 +63,18 @@ h2 {
 top: 0;
 }
 
-.signupbb {
+.img-flex {
+  display: block;
+  width: 100%;
+}
 
+.banner {
+  overflow: hidden;
+  position: relative;
+}
+
+.banner-content {
+  bottom: 0;
+  position: absolute;
+  color: #fff;
 }
