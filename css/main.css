@@ -36,6 +36,12 @@ html {
   color: #fff;
 }
 
+.btn {
+  background-color: #0FC7D6;
+  color: #000000;
+  border-color: #0FC7D6;
+}
+
 .btn-banner {
   border-color: #0FC7D6;
   color:  #000000;
@@ -74,7 +80,13 @@ top: 0;
 }
 
 .banner-content {
-  bottom: 0;
+  bottom: 5rem;
+  left: 7rem;
   position: absolute;
   color: #fff;
+  text-align: center;
+}
+
+.signupbb {
+  color: #0FC7D6;
 }
