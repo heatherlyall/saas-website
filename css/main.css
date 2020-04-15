@@ -1,10 +1,10 @@
 html {
-  background-color: #0FC7D6;
+  background-color: #0fcdd6;
   font-family: Viga, sans-serif;
 }
 
 .masthead {
-  background-color: #000000;
+  background-color: #000;
   color: #fff;
 }
 
@@ -28,7 +28,7 @@ html {
 }
 
 .nav a:hover span {
-  color: #0FC7D6;
+  color: #0fcdd6;
 }
 
 .banner {
@@ -37,36 +37,35 @@ html {
 }
 
 .btn {
-  background-color: #0FC7D6;
-  color: #000000;
-  border-color: #0FC7D6;
+  background-color: #0fcdd6;
+  color: #000;
+  border-color: #0fcdd6;
 }
 
 .btn-banner {
-  border-color: #0FC7D6;
-  color:  #000000;
+  border-color: #0fcdd6;
+  color:  #000;
 }
 
 .btn-banner:hover,
 .btn-banner:focus {
-  background-color: #0FC7D6;
-  border-color: #000000;
-  color: #000000;
+  background-color: #0fcdd6;
+  border-color: #000;
+  color: #000;
 }
 
 .footer {
-  background-color: #000000;
+  background-color: #000;
   color: #fff;
 }
 
-h2 {
+.header-two {
   font-family: "Bebas Neue", cursive;
-  font-size: 5em;
-  color: #000000;
+  color: #000;
 }
 
 .bottom-text {
-top: 0;
+  top: 0;
 }
 
 .img-flex {
@@ -80,12 +79,12 @@ top: 0;
 }
 
 .banner-content {
-top: 0;
-left: 0;
-right: 0;
-position: absolute;
-color: #fff;
-text-align: center
+  top: 0;
+  left: 0;
+  right: 0;
+  position: absolute;
+  color: #fff;
+  text-align: center
 }
 
 .banner-img {
@@ -94,7 +93,7 @@ text-align: center
 }
 
 .signupbb {
-  color: #0FC7D6;
+  color: #0fcdd6;
 }
 
 caption {
