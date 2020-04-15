@@ -31,10 +31,6 @@ html {
   color: #0fcdd6;
 }
 
-.banner {
-  position: relative;
-  overflow: hidden;
-}
 
 .btn {
   background-color: #0fcdd6;
@@ -66,11 +62,6 @@ html {
 
 .bottom-text {
   top: 0;
-}
-
-.img-flex {
-  display: block;
-  width: 100%;
 }
 
 .banner {
