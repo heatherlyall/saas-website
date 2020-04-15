@@ -32,8 +32,8 @@ html {
 }
 
 .banner {
-  min-height: 16em;
-  color: #fff;
+  position: relative;
+  overflow: hidden;
 }
 
 .btn {
@@ -80,17 +80,40 @@ top: 0;
 }
 
 .banner-content {
-  bottom: 5rem;
-  left: 7rem;
-  position: absolute;
-  color: #fff;
-  text-align: center;
+top: 0;
+left: 0;
+right: 0;
+position: absolute;
+color: #fff;
+text-align: center
+}
+
+.banner-img {
+  height: 100vh;
+  width: 100%;
 }
 
 .signupbb {
   color: #0FC7D6;
 }
 
-.box-form {
-  margin-bottom: 0;
+caption {
+  color: #fff;
+}
+
+.dj {
+  width: 100%;
+}
+
+
+@media only screen and (min-width: 60em) {
+
+  .dj {
+    height: 250px;
+    width: 250px;
+    left: 50rem;
+    bottom: 13rem;
+
+  }
+
 }
